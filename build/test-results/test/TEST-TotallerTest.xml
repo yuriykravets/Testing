@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TotallerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-12T13:20:07" hostname="DESKTOP-O6N6DSQ" time="0.025">
+  <properties/>
+  <testcase name="should Be Able To Add 3 And 4()" classname="TotallerTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
